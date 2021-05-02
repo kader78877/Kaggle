@@ -1,3 +1,6 @@
+
+### Titanic - Machine Learning from Disaster
+
 In this competition, I applied a XGBClassifier in order to predict if a passenger survived or not. My kaggle results is 0.78708.
 
 1. Missing values
